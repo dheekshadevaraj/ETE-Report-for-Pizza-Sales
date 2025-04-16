@@ -1,0 +1,74 @@
+# 🍕 Pizza Sales Report
+
+A complete data analysis and visualization project to uncover business insights from a fictional pizza sales dataset. This project demonstrates how data-driven decisions can improve overall sales, optimize operations, and identify key trends in the food and beverage industry.
+
+---
+
+## 📊 Project Overview
+
+This project analyzes sales data from a pizza restaurant to answer critical business questions such as:
+
+- What are the most popular pizzas and categories?
+- When are peak sales times by day and month?
+- How do sales vary by size, category?
+- Which months or days generate the most revenue?
+
+---
+
+## 🧰 Tools & Technologies
+
+- **Data Cleaning & Analysis**: SQL
+- **Data Visualization**: Power BI 
+- **Dashboard**: Interactive and user-friendly layout for business insights
+
+---
+
+## 📁 Dataset
+
+The dataset includes:
+
+- Order Date & Time  
+- Pizza Name, Category, Size  
+- Quantity Ordered  
+- Total Price
+
+> *Note: This is a fictional dataset used for learning and portfolio purposes.*
+
+---
+
+## 📌 Key Insights
+
+- Best-selling and top revenue-generating pizzas  
+- High-demand time months and days  
+- Performance of different pizza sizes and categories  
+- Sales trends by month and day
+
+---
+
+## 📎 Files Included
+
+- `Pizza Sales Dataset.csv`  
+- `Pizza Sales Dashboard.pbix` / `.twbx`  
+- `Excel Analysis File.xlsx` *(if applicable)*  
+- `SQL Queries.sql` *(if applicable)*  
+- `README.md`  
+
+---
+
+## 📈 Sample Visualizations
+
+- 📅 Monthly Revenue Trend  
+- 🍕 Top 5 Pizzas by Revenue, Quantity and Orders 
+- 🍕 Bottom 5 Pizzas by Revenue, Quantity and Orders  
+- 📦 Sales by Pizza Category   
+- 🧩 Quantity by Size Pie Chart  
+
+---
+
+## 💼 About Me
+
+I'm a data analyst passionate about transforming raw data into meaningful business insights.  
+📌 [LinkedIn](#) | 🌐 [Portfolio](#) | ✉️ [Email](#)
+
+---
+
