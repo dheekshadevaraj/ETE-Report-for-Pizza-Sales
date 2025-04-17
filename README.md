@@ -32,8 +32,6 @@ The dataset includes:
 - Quantity Ordered  
 - Total Price
 
-> *Note: This is a fictional dataset used for learning and portfolio purposes.*
-
 ---
 
 ## 📌 Key Insights
